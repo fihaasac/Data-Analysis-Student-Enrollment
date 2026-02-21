@@ -14,8 +14,7 @@ The goal of this project is to analyze the enrollment trends, demographic distri
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1711" height="1019" alt="Screenshot 2026-02-21 065551" src="https://github.com/user-attachments/assets/230e4fb8-fc7f-4dd2-ba13-bbad0e4f8686" />
-)
+![Dashboard Screenshot](<img width="1711" height="1019" alt="Screenshot 2026-02-21 065551" src="https://github.com/user-attachments/assets/230e4fb8-fc7f-4dd2-ba13-bbad0e4f8686" />)
 
 ## 📁 Files Included
 * `ABC inst Report.pbix` - The interactive Power BI file.
